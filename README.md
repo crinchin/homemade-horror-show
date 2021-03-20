@@ -1,1 +1,3 @@
-# homemade-horror-show
+## Learning Laravel
+
+Chicago's very own Homemade Horror Show!
