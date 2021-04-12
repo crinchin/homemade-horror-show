@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Blood Thirst';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/Blood+Thirst.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dark Tales';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/Dark+Tales.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Happy Ending';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/Happy+Ending.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'October Crow';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/October+Crow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stranger back in the Night';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/Stranger+back+in+the+Night.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'STRANGER CREATURE';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/STRANGERCREATURE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Black Dahlia';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/BlackDahlia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Beautiful Horror';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/Beautiful+Horror.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anarchy';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/Anarchy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amped For Evil';
+    src: url('https://homemadehorrorshow.s3.us-east-2.amazonaws.com/font/AMPEFE__.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
